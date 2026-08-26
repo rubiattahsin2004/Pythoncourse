@@ -10,3 +10,4 @@ a, b = b, a
 print("\nAfter Swapping:")
 print("a =", a)
 print("b =", b)
+print("b =", b)
